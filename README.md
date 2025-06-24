@@ -8,7 +8,7 @@ Atualmente:
 
 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Universidade Veiga de Almeida (4º período)  
 🐍 Certificado em **Python e Django** pela PyCodeBR  
-💻 Participando do **Bootcamp Santander 2024 - Front-End** na [DIO.me](https://www.dio.me/)  
+💻 Participando do **Bootcamp Santander 2025 - Front-End** na [DIO.me](https://www.dio.me/)  
 🚀 Em busca de oportunidades para aplicar e expandir meus conhecimentos em desenvolvimento web  
 
 "Transformando linhas de código em soluções criativas!"
